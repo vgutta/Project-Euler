@@ -16,5 +16,6 @@ int main(void) {
     i++;
   }
   printf("%d", sum);
+  /* Prints 233168 */
   return 0;
 }
